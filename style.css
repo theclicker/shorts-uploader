@@ -47,3 +47,5 @@ footer {
   color: var(--muted);
   font-size: 14px;
 }
+.yt-badge { margin: 4px 0 10px; }
+.yt-badge img { display: block; }
